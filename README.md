@@ -63,3 +63,6 @@ Compare different airfoils and blunt wings.
 Observe which shapes are more aerodynamic (smoother streamlines, higher top-surface velocity).
 
 <img width="896" height="624" alt="image" src="https://github.com/user-attachments/assets/da39cc34-5055-4fb4-b940-4c6c878f5ae2" />
+
+<img width="876" height="610" alt="image" src="https://github.com/user-attachments/assets/c9d1d77c-3f3c-4e2b-b7da-660e148a6d71" />
+
